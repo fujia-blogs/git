@@ -1,5 +1,2 @@
-The magic rebase
-
-* What is it?
-* When to use?
-More use
+Git is a control system.
+Git is free software.
