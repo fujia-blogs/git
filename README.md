@@ -13,3 +13,4 @@ Git has a mutable index called stage.
   More use
   Creating a new branch is quick
   The HEAD representing the current branch
+  How to resolve conflicts?
