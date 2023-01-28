@@ -4,7 +4,7 @@ Git tracks changes
 
 My stupid boss prefers SVN.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
 Git tracks changes not files
 Git has a mutable index called stage.
 
